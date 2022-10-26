@@ -1,0 +1,29 @@
+body {
+  background-color: pink;
+  font-family: sans-serif;
+}
+
+main {
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/*input[type="radio"] {
+  opacity: 0;
+  width: 0;
+  heigth: 0;
+  overflow: hidden;
+  position: absolute;
+}*/
+
+/*#answers {
+  display: flex;
+  flex-direction: colum;
+  padding: 2em;
+  color: red;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}*/
